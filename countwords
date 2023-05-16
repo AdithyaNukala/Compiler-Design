@@ -10,3 +10,4 @@ yylex();
 printf("no of words=%d",word);
 return 0;
 }
+
